@@ -16,7 +16,7 @@ I am stepbystep from China who is a undergraduate and code-lover, also loves Lin
 
 ⚡ Fun fact: Big Fan of **Linux**
 
-![](https://github-readme-stats.vercel.app/api?username=stepbystepcode&bg_color=15,e96443,904e95&text_color=fff&title_color=fff&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=stepbystepcode&bg_color=15,e96443,904e95&text_color=fff&title_color=fff&show_icons=true&icon_color=fff)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stepbystepcode&layout=compact)
 
 Language : ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)

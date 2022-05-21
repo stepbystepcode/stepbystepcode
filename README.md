@@ -16,7 +16,8 @@ I am stepbystep from China who is a undergraduate and code-lover, also loves Lin
 
 ⚡ Fun fact: Big Fan of **Linux**
 
-![](https://github-readme-stats.vercel.app/api?username=stepbystepcode&bg_color=15,e96443,904e95&text_color=fff&title_color=fff)
+![](https://github-readme-stats.vercel.app/api?username=stepbystepcode&bg_color=15,e96443,904e95&text_color=fff&title_color=fff&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stepbystepcode&layout=compact)
 
 Language : ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3776ab)
@@ -24,19 +25,5 @@ Language : ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&lo
 
 Tool : ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=57A143)
-
-<!--START_SECTION:waka-->
-
-```text
-
-Python   2 hrs 48 mins   █████████████████████████   99.39 %
-
-PHP      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-
-```
-
-<!--END_SECTION:waka-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=stepbystepcode.readme)

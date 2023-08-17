@@ -42,7 +42,7 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+![BEPb's github activity graph](https://raw.githubusercontent.com/stepbystepcode/stepbystepcode/output/github-contribution-grid-snake.svg)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=stepbystepcode&show_icons=true&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stepbystepcode&layout=compact) |
@@ -51,9 +51,6 @@
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake -->
-![](https://raw.githubusercontent.com/stepbystepcode/stepbystepcode/output/github-contribution-grid-snake.svg)
 
 
 **📫 How to Reach me:**

@@ -45,7 +45,6 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=stepbystepcode&show_icons=true&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stepbystepcode&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stepbystepcode"></img>
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
